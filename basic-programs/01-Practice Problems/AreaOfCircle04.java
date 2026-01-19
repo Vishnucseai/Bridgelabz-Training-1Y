@@ -5,6 +5,6 @@ class AreaOfCircle{
 		
 		double area = pi * radius * radius;
 		 
-		system.out.println("Area Of Circle = " + area);
+		System.out.println("Area Of Circle = " + area); 
 		}
-}		
+}
