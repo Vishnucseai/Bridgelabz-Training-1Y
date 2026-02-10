@@ -1,4 +1,4 @@
-package array;
+package com.gla.array;
 
 public class Array1 {
     public static void main(String [] args){
